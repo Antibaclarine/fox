@@ -1,0 +1,8 @@
+.container{
+    border-style: dotted;color: chartreuse;
+    padding: 20px
+}
+.words{
+    margin: 5%;
+    border-style: solid;color: blue;
+}
